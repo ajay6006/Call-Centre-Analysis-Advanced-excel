@@ -1,5 +1,8 @@
 # 📞 Call Center Analysis Dashboard  
 
+## 📷 Dashboard Preview  
+![Call Center Dashboard](Dashboard.jpg)
+
 ## 📌 Project Overview  
 This project involves building an **interactive Excel dashboard** for **call center performance analysis**, leveraging **data modeling, pivot tables, and dynamic charts** to track key call center metrics and agent performance.  
 
@@ -22,6 +25,4 @@ This project involves building an **interactive Excel dashboard** for **call cen
 - **Microsoft Excel** (Pivot Tables, Charts, Data Modeling)  
 - **Power Query** (for Data Cleaning & Transformation)  
 
-## 📷 Dashboard Preview  
-![Call Center Dashboard](dashboard.jpg)
 
