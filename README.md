@@ -23,4 +23,5 @@ This project involves building an **interactive Excel dashboard** for **call cen
 - **Power Query** (for Data Cleaning & Transformation)  
 
 ## 📷 Dashboard Preview  
-![Call Center Dashboard](Downloads/Call Centre Analysis Dashboard.jpg)  
+![Call Center Dashboard](dashboard.jpg)
+
