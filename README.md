@@ -19,10 +19,9 @@ This project involves building an **interactive Excel dashboard** for **call cen
 - **Calls & Revenue by Representative:** Dynamic bar chart for performance insights.  
 - **Customer Demographics Analysis:** Stacked bar chart (calls by city & gender).  
 - **Satisfaction Rating Distribution:** Histogram to evaluate customer feedback.  
-- **Interactive Elements:** Pivot tables, slicers, and conditional formatting for dynamic reporting.  
+- **Interactive Elements:** Pivot tables, slicers for dynamic reporting.  
 
 ## 🚀 Tech Stack  
-- **Microsoft Excel** (Pivot Tables, Charts, Data Modeling)  
-- **Power Query** (for Data Cleaning & Transformation)  
+- **Microsoft Excel** (Pivot Tables, Charts, Data Modeling) 
 
 
